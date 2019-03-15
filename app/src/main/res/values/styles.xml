@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+    -<resources>
+
+    <!-- Base application theme. -->
+
+
+
+    -<style parent="Theme.AppCompat.NoActionBar" name="AppTheme">
+
+    <!-- Customize your theme here. -->
+
+
+</style>
+
+</resources>
